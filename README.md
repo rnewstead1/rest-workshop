@@ -53,3 +53,6 @@ Example employer:
   numberOfPupils: 100
 }
 ```
+
+## Next steps
+Use [supertest](https://www.npmjs.com/package/supertest) to write some automated tests for your api using [mocha](https://www.npmjs.com/package/mocha) (or a test framework of your choice).
