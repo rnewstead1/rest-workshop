@@ -1,0 +1,4 @@
+{"_id":"1","title":"English teacher","employerId":"1","candidates":[{"name":"Jon Snow","id":"1"}]}
+{"_id":"2","title":"Maths teacher","employerId":"1","candidates":[]}
+{"_id":"3","title":"Headteacher","employerId":"2","candidates":[{"name":"Arya Stark","id":"2"}]}
+{"_id":"4","title":"Music teacher","employerId":"2","candidates":[{"name":"Cersei Lannister","id":"3"},{"name":"Sansa Stark","id":"4"}]}
