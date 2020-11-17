@@ -54,5 +54,12 @@ Example employer:
 }
 ```
 
+## Talking points
+- What response code does each endpoint return?
+- What happens if there's an error?
+- Which REST verb have you used to update the job title, and why?
+- How have you structured your url to get a single job? How do you pass the id? What other ways can you do this?
+- How have you designed the APIs to get employer details? What other ways can you do this? 
+
 ## Next steps
 Use [supertest](https://www.npmjs.com/package/supertest) to write some automated tests for your api using [mocha](https://www.npmjs.com/package/mocha) (or a test framework of your choice).
